@@ -1,0 +1,142 @@
+## What is a Stack?
+
+[![View Sample Code](https://img.shields.io/badge/View_Sample_Code-StackLesson.java-blue?style=for-the-badge&logo=java)](./StackLesson.java)
+
+A **Stack** is a data structure that follows the **LIFO (Last In, First Out)** principle.
+
+This means the **last item added** to the stack is the **first item removed**.
+
+Example:
+
+```text
+Push Apple
+Push Banana
+Push Orange
+
+Stack:
+Top
+Orange
+Banana
+Apple
+```
+
+If we remove an item using `pop()`, Orange will be removed first because it was added last.
+
+---
+
+## Stack Metqhods
+
+### isEmpty()
+
+Checks whether the stack is empty.
+
+```java
+stack.isEmpty();
+```
+
+Returns:
+
+- `true` if the stack has no items
+- `false` if the stack contains items
+
+---
+
+### push()
+
+Adds an item to the top of the stack.
+
+```java
+stack.push("Apple");
+```
+
+---
+
+### pop()
+
+Returns and removes the top item from the stack.
+
+```java
+stack.pop();
+```
+
+Example:
+
+```text
+Before:
+Top
+Orange
+Banana
+Apple
+
+After pop():
+Top
+Banana
+Apple
+```
+
+---
+
+### peek()
+
+Returns the top item without removing it.
+
+```java
+stack.peek();
+```
+
+Example:
+
+```text
+Top item: Banana
+
+Stack remains unchanged.
+```
+
+---
+
+### search()
+
+Searches for an item and returns its position from the top.
+
+```java
+stack.search("Apple");
+```
+
+Example:
+
+```text
+Top
+Banana  -> Position 1
+Apple   -> Position 2
+```
+
+Result:
+
+```text
+2
+```
+
+If the item is not found:
+
+```java
+stack.search("Orange");
+```
+
+Result:
+
+```text
+-1
+```
+
+---
+
+## Summary
+
+| Method      | Description                                         |
+| ----------- | --------------------------------------------------- |
+| `isEmpty()` | Checks if the stack is empty                        |
+| `push()`    | Adds an item to the top                             |
+| `pop()`     | Returns and removes the top item                    |
+| `peek()`    | Returns the top item without removing it            |
+| `search()`  | Finds an item and returns its position from the top |
+
