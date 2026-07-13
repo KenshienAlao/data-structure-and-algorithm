@@ -180,3 +180,15 @@ Starter: Stack = [iPhone, Tablet, Samsung, Xiaomi]
 tip: Use temporary storage
 ```
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem3.java)
+
+
+### Problem 4: "Finding The Largest Number And Print The Stack"
+```text
+Expected Output:
+Largest: 13
+
+Starter: Stack = [10, 5, 50, 3, 13]
+
+tip: Use temporary storage
+```
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem4.java)
