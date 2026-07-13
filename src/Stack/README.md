@@ -24,7 +24,7 @@ If we remove an item using `pop()`, Orange will be removed first because it was 
 
 ---
 
-## Stack Metqhods
+## Stack Methods
 
 ### isEmpty()
 
@@ -139,4 +139,30 @@ Result:
 | `pop()`     | Returns and removes the top item                    |
 | `peek()`    | Returns the top item without removing it            |
 | `search()`  | Finds an item and returns its position from the top |
+
+## Problems
+Problem 1: "Reverse a String"
+```text
+Input: Hello
+Output: olleH
+
+Starter: String text = "Hello"
+
+tip: Use a Stack<Character> and use for loop to print the reversed string
+```
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem1.java)
+
+Problem 2: "Check Balanced Parentheses"
+```text
+Input: ((()))
+Output: Balanced
+
+Input: (()
+Output: Not Balanced
+
+Starter: String text = "((()))"
+
+tip: Use push/pop and use conditional
+```
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem2.java)
 
