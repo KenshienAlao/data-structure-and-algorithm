@@ -141,7 +141,9 @@ Result:
 | `search()`  | Finds an item and returns its position from the top |
 
 ## Problems
+
 ### Problem 1: "Reverse a String"
+
 ```text
 Input: Hello
 Output: olleH
@@ -150,9 +152,11 @@ Starter: String text = "Hello"
 
 tip: Use a Stack<Character> and use for loop to print the reversed string
 ```
+
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem1.java)
 
 ### Problem 2: "Check Balanced Parentheses"
+
 ```text
 Input: ((()))
 Output: Balanced
@@ -164,9 +168,11 @@ Starter: String text = "((()))"
 
 tip: Use push/pop and use conditional
 ```
+
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem2.java)
 
 ### Problem 3: "Display Stack Contents Without Destroying It"
+
 ```text
 Expected Output:
 Top
@@ -179,10 +185,11 @@ Starter: Stack = [iPhone, Tablet, Samsung, Xiaomi]
 
 tip: Use temporary storage
 ```
+
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem3.java)
 
-
 ### Problem 4: "Finding The Largest Number And Print The Stack"
+
 ```text
 Expected Output:
 Largest: 13
@@ -191,9 +198,11 @@ Starter: Stack = [10, 5, 50, 3, 13]
 
 tip: Use temporary storage
 ```
+
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem4.java)
 
 ### Problem 5: "Browser Back Button Simulation"
+
 ```text
 Current Page: Facebook
 
@@ -210,4 +219,5 @@ Starter:
 
 tip: use size() to determine if there&apos;s a page to back
 ```
+
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem5.java)
