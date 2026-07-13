@@ -141,7 +141,7 @@ Result:
 | `search()`  | Finds an item and returns its position from the top |
 
 ## Problems
-Problem 1: "Reverse a String"
+### Problem 1: "Reverse a String"
 ```text
 Input: Hello
 Output: olleH
@@ -152,7 +152,7 @@ tip: Use a Stack<Character> and use for loop to print the reversed string
 ```
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem1.java)
 
-Problem 2: "Check Balanced Parentheses"
+### Problem 2: "Check Balanced Parentheses"
 ```text
 Input: ((()))
 Output: Balanced
@@ -166,3 +166,17 @@ tip: Use push/pop and use conditional
 ```
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem2.java)
 
+### Problem 3: "Display Stack Contents Without Destroying It"
+```text
+Expected Output:
+Top
+Xiaomi
+Samsung
+Tablet
+iPhone
+
+Starter: Stack = [iPhone, Tablet, Samsung, Xiaomi]
+
+tip: Use temporary storage
+```
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem3.java)
