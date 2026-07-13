@@ -192,3 +192,22 @@ Starter: Stack = [10, 5, 50, 3, 13]
 tip: Use temporary storage
 ```
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem4.java)
+
+### Problem 5: "Browser Back Button Simulation"
+```text
+Current Page: Facebook
+
+Back -> GitHub
+Back -> YouTube
+
+Current Page: YouTube
+
+Starter:
+        history.push("Google");
+        history.push("YouTube");
+        history.push("GitHub");
+        history.push("Facebook");
+
+tip: use size() to determine if there&apos;s a page to back
+```
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem5.java)
