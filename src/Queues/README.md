@@ -96,3 +96,79 @@ Queue remains unchanged.
 | `offer()`   | Adds an item to the tail                  |
 | `poll()`    | Returns and removes the head item         |
 | `peek()`    | Returns the head item without removing it |
+
+## Problems
+
+### Problem 1: "Print All Queue Elements"
+
+```text
+Input:
+Spongebob
+Patrick
+Squidward
+
+Output:
+Spongebob
+Patrick
+Squidward
+
+Tip: Use poll() until the queue becomes empty.
+```
+
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem1.java)
+
+### Problem 2: "Sum All Numbers in a Queue"
+
+```text
+Input:
+10
+20
+30
+40
+
+Output:
+100
+
+Tip: Use poll() and add each number to a sum variable.
+```
+
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem2.java)
+
+### Problem 3: "Find the Average"
+
+```text
+Input:
+10
+20
+30
+40
+
+Output:
+25.0
+
+Tip: Keep track of both the sum and the count.
+```
+
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem3.java)
+
+### Problem 4: "Find the Average"
+
+```text
+Input:
+1
+2
+3
+4
+5
+6
+
+Output:
+2
+4
+6
+
+Tip: Use the modulo operator (%) to check if a number is even.
+```
+
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem4.java)
+
