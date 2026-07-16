@@ -48,6 +48,7 @@ public class QueuesLesson {
         queue.offer(80);
         queue.offer(10);
 
+
         while (!queue.isEmpty()) {
             System.out.println(queue.poll());
         }

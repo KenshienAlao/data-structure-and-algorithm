@@ -6,6 +6,7 @@ Welcome to my repo. This is my self reviewer repository containing topics with p
 
 - [Stack](./src/Stack/README.md)
 - [Queues](./src/Queues/README.md)
+- [LinkedList](./src/LinkedList/README.md)
 
 ---
 
