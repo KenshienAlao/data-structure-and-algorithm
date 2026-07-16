@@ -6,6 +6,8 @@ A **Stack** is a data structure that follows the **LIFO (Last In, First Out)** p
 
 This means the **last item added** to the stack is the **first item removed**.
 
+![stack](/src/assets/stack.webp)
+
 Example:
 
 ```text

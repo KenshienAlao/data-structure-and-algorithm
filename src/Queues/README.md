@@ -6,6 +6,8 @@ A **Queue** is a data structure that follows the **FIFO (First In, First Out)** 
 
 This means the **first item added** to the queue is the **first item removed**.
 
+![Queue](/src/assets//queue.webp)
+
 Example:
 
 ```text
