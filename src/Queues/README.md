@@ -172,3 +172,23 @@ Tip: Use the modulo operator (%) to check if a number is even.
 
 [![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem4.java)
 
+### Problem 5: "Count How Many Times a Number Appears"
+
+```text
+Input:
+10
+20
+10
+30
+10
+
+Search:
+10
+
+Output:
+3
+
+Tip: Increment a counter whenever the number matches.
+```
+
+[![Solution](https://img.shields.io/badge/Solution-Click_Here-blue?style=for-the-badge&logo=java)](./Problems/Problem5.java)
