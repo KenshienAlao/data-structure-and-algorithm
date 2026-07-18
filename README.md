@@ -1,12 +1,25 @@
-## Data Structures and Algorithms
+# Data Structures and Algorithms
 
-Welcome to my repo. This is my self reviewer repository containing topics with practice problems and easy to understand explanations.
+![Data Structures and Algorithms](./src/assets/hero.jpg)
+
+Welcome to my **Data Structures and Algorithms** repository!
+
+This repository contains my personal notes, lessons, and practice problems while learning DSA. Each topic includes beginner-friendly explanations, visual examples, time complexities, and coding exercises to help reinforce the concepts.
 
 ## Topics
 
-- [Stack](./src/Stack/README.md)
-- [Queues](./src/Queues/README.md)
-- [LinkedList](./src/LinkedList/README.md)
+- [Stack](./src/Stack/LESSON.md)
+- [Queues](./src/Queues/LESSON.md)
+- [LinkedList](./src/LinkedList/LESSON.md)
+- [Dynamic Array](./src/DynamicArray/LESSON.md)
+
+## What You'll Find
+
+- Simple explanations
+- Visual examples
+- Time complexity analysis
+- Practice problems
+- Java implementations
 
 ---
 
